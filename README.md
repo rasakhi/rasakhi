@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rasakhi
 - 👀 I’m interested in web development
-- 🌱 I’m currently javascript
-- 💞️ I’m looking to collaborate on beginner javascript projects
+- 🌱 I’m currently learning full stack web development
+- 💞️ I’m looking to collaborate on beginner html and css projects
 - 📫 You can reach me via michaelachumba@gmail.com
 
 <!---
