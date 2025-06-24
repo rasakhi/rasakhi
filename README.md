@@ -16,6 +16,8 @@ to work from home so I can stay close to my family, and empower others through e
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rasakhi&show_icons=true&theme=github_dark&hide_border=true" alt="rasakhi GitHub stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasakhi&theme=dark&hide_border=true" alt="rasakhi GitHub streak" /> </p>
 
+<p align="center"> <a href="https://linkedin.com/in/michaelachumba" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:michaelachumba@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
 
 <!---
 rasakhi/rasakhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
