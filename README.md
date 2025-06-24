@@ -11,6 +11,9 @@
 <!-- ABOUT ME -->
 ## 👨‍💻 About Me
 
+<p>I started my software engineering journey with a simple, powerful goal:
+to work from home so I can stay close to my family, and empower others through education.</p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rasakhi&show_icons=true&theme=github_dark&hide_border=true" alt="rasakhi GitHub stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasakhi&theme=dark&hide_border=true" alt="rasakhi GitHub streak" /> </p>
 
 
