@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi there 👋, I'm Michael Achumba</h1>
-<h3 align="center">Aspiring Frontend Engineer | Passionate about EdTech | Lifelong Learner</h3>
+<h3 align="center">Aspiring Frontend Engineer | Passionate about EdTech | Music Creator and Lover</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rasakhi&label=Profile%20views&color=0e75b6&style=flat" alt="rasakhi" />
